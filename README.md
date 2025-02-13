@@ -1,5 +1,5 @@
 # myWebsites
-<br>https://hyrumhendrickson.com
+https://hyrumhendrickson.com
 <br>https://assortedprojects.org
 <br>https://hendricksonfamily.org
 <br>https://scatteredgames.com
