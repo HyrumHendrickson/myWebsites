@@ -1,3 +1,3 @@
 # myWebsites
 
-hyrumhendrickson.com
+https://hyrumhendrickson.com
