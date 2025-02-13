@@ -1,7 +1,6 @@
 # myWebsites
-
-https://hyrumhendrickson.com
-https://assortedprojects.org
-https://hendricksonfamily.org
-https://scatteredgames.com
-https://westernhumanities.org
+<br>https://hyrumhendrickson.com
+<br>https://assortedprojects.org
+<br>https://hendricksonfamily.org
+<br>https://scatteredgames.com
+<br>https://westernhumanities.org
